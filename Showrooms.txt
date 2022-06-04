@@ -1,0 +1,45 @@
+Showroom ID :1
+Showroom Name :room1
+Phone Number :123456
+Showroom Location :Maadi
+
+Car ID :1
+Car Make :Chevorlet
+Car Model :Aveo
+Car Year :2009
+Car Price :11500
+
+Car ID :3
+Car Make :Nissan
+Car Model :Sunny
+Car Year :2009
+Car Price :369
+$:
+Showroom ID :2
+Showroom Name :room2
+Phone Number :98752356
+Showroom Location :Heliopolis
+
+Car ID :2
+Car Make :Chevrolet
+Car Model :Optra
+Car Year :2019
+Car Price :200
+
+Car ID :3
+Car Make :Nissan
+Car Model :Sunny
+Car Year :2009
+Car Price :369
+$:
+Showroom ID :8
+Showroom Name :room8
+Phone Number :852369
+Showroom Location :Giza
+
+Car ID :9
+Car Make :Chevrolet
+Car Model :Spark
+Car Year :2009
+Car Price :369
+$:

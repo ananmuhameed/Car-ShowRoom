@@ -1,0 +1,13 @@
+
+customer ID : 1
+process ID : 1
+Date of service: 29-5-2022
+Service :Electricity
+Price :1200
+
+customer ID : 1
+process ID : 2
+Date of service: 30-5-2022
+Service :Checkup
+Price :450
+

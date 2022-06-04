@@ -1,0 +1,60 @@
+Garage ID :1
+Garage Name :g1
+Garage Number :963258
+Garage Location :Heliopolis
+Services :wash,Oil,Battery,
+
+Garage ID :2
+Garage Name :g2
+Garage Number :852147
+Garage Location :Eldokki
+Services :Repair,Oil,Checkup,
+
+Garage ID :3
+Garage Name :g3
+Garage Number :852369
+Garage Location :Shobra
+Services :Oil,Wash,Battery,
+
+Garage ID :4
+Garage Name :g4
+Garage Number :963258
+Garage Location :Giza
+Services :Tyres,Brakes,Coloring,
+
+Garage ID :5
+Garage Name :g5
+Garage Number :852147
+Garage Location :Elobour
+Services :Electricity,Oil,Checkup,
+
+Garage ID :6
+Garage Name :g6
+Garage Number :852369
+Garage Location :ElNozha
+Services :Oil,Wash,Battery,
+
+Garage ID :7
+Garage Name :g7
+Garage Number :852147
+Garage Location :Sheraton
+Services :Repair,Oil,Checkup,
+
+Garage ID :8
+Garage Name :g8
+Garage Number :852147
+Garage Location :Maadi
+Services :Electricity,Oil,Checkup,
+
+Garage ID :9
+Garage Name :g9
+Garage Number :852369
+Garage Location :Elmoatam
+Services :Chassis,Wash,Battery,
+
+Garage ID :10
+Garage Name :g10
+Garage Number :852147
+Garage Location :Madinaty
+Services :Tyres,Brakes,Coloring,
+

@@ -1,0 +1,54 @@
+Car ID :1
+Car Make :Chevorlet
+Car Model :Aveo
+Car Year :2009
+Car Price :115000
+
+Car ID :2
+Car Make :Chevrolet
+Car Model :Optra
+Car Year :2019
+Car Price :200000
+
+Car ID :3
+Car Make :Nissan
+Car Model :Sunny
+Car Year :2009
+Car Price :369000
+
+Car ID :4
+Car Make :Kia
+Car Model :Sportage
+Car Year :2009
+Car Price :115000
+
+Car ID :5
+Car Make :BMW
+Car Model :ix
+Car Year :2019
+Car Price :200200
+
+Car ID :6
+Car Make :Audi
+Car Model :A3
+Car Year :2009
+Car Price :369000
+
+Car ID :7
+Car Make :Audi
+Car Model :A4
+Car Year :2009
+Car Price :300000
+
+Car ID :8
+Car Make :Chevrolet
+Car Model :Malibu
+Car Year :2009
+Car Price :369
+
+Car ID :9
+Car Make :Chevrolet
+Car Model :Spark
+Car Year :2009
+Car Price :369
+

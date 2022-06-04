@@ -1,0 +1,150 @@
+proccess id : 1
+customer id : 1
+Service : Battery
+Price : 600
+
+proccess id : 2
+customer id : 2
+Service : Oil
+Price : 500
+
+proccess id : 3
+customer id : 2
+Service : Battery
+Price : 600
+
+proccess id : 1
+customer id : 1
+Service : Oil
+Price : 500
+
+proccess id : 2
+customer id : 2
+Service : Battery
+Price : 600
+
+proccess id : 3
+customer id : 2
+Service : Wash
+Price : 200
+
+proccess id : 1
+customer id : 1
+Service : Oil
+Price : 500
+
+proccess id : 2
+customer id : 2
+Service : Battery
+Price : 600
+
+proccess id : 3
+customer id : 2
+Service : Electricity
+Price : 1200
+
+proccess id : 1
+customer id : 1
+Service : Wash
+Price : 200
+
+proccess id : 2
+customer id : 2
+Service : Battery
+Price : 600
+
+proccess id : 3
+customer id : 2
+Service : Electricity
+Price : 1200
+
+proccess id : 1
+customer id : 1
+Service : Oil
+Price : 500
+
+proccess id : 2
+customer id : 2
+Service : Wash
+Price : 200
+
+proccess id : 3
+customer id : 1
+Service : Battery
+Price : 600
+
+proccess id : 1
+customer id : 1
+Service : Oil
+Price : 500
+
+proccess id : 2
+customer id : 2
+Service : Electricity
+Price : 1200
+
+proccess id : 3
+customer id : 1
+Service : Checkup
+Price : 450
+
+proccess id : 1
+customer id : 1
+Service : Electricity
+Price : 1200
+
+proccess id : 2
+customer id : 2
+Service : Wash
+Price : 200
+
+proccess id : 3
+customer id : 1
+Service : Battery
+Price : 600
+
+proccess id : 1
+customer id : 1
+Service : Battery
+Price : 600
+
+proccess id : 2
+customer id : 1
+Service : Checkup
+Price : 450
+
+proccess id : 1
+customer id : 1
+Service : Tyres
+Price : 200
+
+proccess id : 1
+customer id : 1
+Service : Brakes
+Price : 450
+
+proccess id : 1
+customer id : 1
+Service : Brakes
+Price : 450
+
+proccess id : 1
+customer id : 1
+Service : Brakes
+Price : 450
+
+proccess id : 1
+customer id : 1
+Service : Electricity
+Price : 1200
+
+proccess id : 2
+customer id : 1
+Service : Brakes
+Price : 450
+
+proccess id : 2
+customer id : 1
+Service : Checkup
+Price : 450
+

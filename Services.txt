@@ -1,0 +1,54 @@
+Service ID :1
+Service Name :Wash
+Service price :200
+Service Time :10:00
+Worker Name :Medhat
+
+Service ID :2
+Service Name :Oil
+Service price :500
+Service Time :7:00
+Worker Name :Sobhy
+
+Service ID :3
+Service Name :Battery
+Service price :600
+Service Time :12:30
+Worker Name :Alaa
+
+Service ID :4
+Service Name :Tyres
+Service price :200
+Service Time :10:00
+Worker Name :Medhat
+
+Service ID :5
+Service Name :Checkup
+Service price :450
+Service Time :7:00
+Worker Name :Sobhy
+
+Service ID :6
+Service Name :Coloring
+Service price :1200
+Service Time :12:30
+Worker Name :Alaa
+
+Service ID :7
+Service Name :Chassis
+Service price :200
+Service Time :10:00
+Worker Name :Medhat
+
+Service ID :8
+Service Name :Brakes
+Service price :450
+Service Time :7:00
+Worker Name :Sobhy
+
+Service ID :9
+Service Name :Electricity
+Service price :1200
+Service Time :12:30
+Worker Name :Alaa
+
